@@ -1,0 +1,28 @@
+color:
+  brandColors:
+    - '#201211'
+    - '#C57F53'
+    - '#6E3A2B'
+    - '#B7BED3'
+    - '#DBB86E'
+  brandStrength: 0.371406716061756
+  lightness: 0.3505969112738967
+  saturation: 0.1666343933902681
+  rhythmicContrast: 0.36281889700330794
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: klijak
+layout_spectrum: 0.3600627996493131
+typography_spectrum: 0.10163501999340951
+content: []
+title: Klijak
+description: Ambitious Leadership
+url: 'https://thegrid.ai/klijak/'
+github: true
+author:
+  name: Matthias Marschall
